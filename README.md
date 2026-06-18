@@ -2,6 +2,8 @@ Họ tên; CHU HOÀNG HUY
 
 MSV; K215480106076
 
+ĐỀ TÀI; DỰ BÁO TIÊU THỤ ĐIỆN NĂNG DỰA TRÊN CÁC BIÊN THỜI TIẾT 
+
 
 5 CÂU HỎI VỀ PHÂN TÍCH DỮ LIỆU 
 
