@@ -27,7 +27,7 @@ CÂU 5 Phân phối dữ liệu: Dữ liệu tiêu thụ điện có tuân theo 
   
 2 CÂU HỎI VỀ DỰ ĐOÁN 
 
-CÂU 1 Độ chính xác của mô hình: Với chỉ số R2 Score là 0.58, bạn đánh giá thế nào về khả năng dự báo của mô hình hiện tại?
+CÂU 1 Độ chính xác của mô hình: Với chỉ số R2 Score là 0.01, bạn đánh giá thế nào về khả năng dự báo của mô hình hiện tại?
 
   - Trả lời: Kết quả 0.01 cho thấy mô hình đã nắm bắt được các xu hướng chính. Mặc dù chưa hoàn hảo, đây là một kết quả khả quan cho thấy mối quan hệ phi tuyến giữa các biến, là nền tảng để cải thiện bằng các thuật toán phức tạp hơn như Random Forest hay LSTM sau này.
 
